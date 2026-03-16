@@ -15,6 +15,14 @@ data:
       - roboshop-admin
       userarn: arn:aws:iam::230989376808:user/shiva
       username: shiva
+    - groups:
+      - roboshop-admin
+      userarn: arn:aws:iam::230989376808:user/kumar
+      username: kumar
+    - groups:
+      - roboshop-admin
+      userarn: arn:aws:iam::230989376808:user/vamshi
+      username: vamshi  
       
 kind: ConfigMap
 metadata:
