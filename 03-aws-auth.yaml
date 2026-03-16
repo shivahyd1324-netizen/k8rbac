@@ -11,6 +11,10 @@ data:
       - roboshop-trainer
       userarn: arn:aws:iam::230989376808:user/saikumar
       username: saikumar
+
+    - roboshop-trainer
+      userarn: arn:aws:iam::230989376808:user/saikumar
+      username: saikumar  
 kind: ConfigMap
 metadata:
   creationTimestamp: "2025-12-11T01:49:27Z"
